@@ -1,0 +1,13 @@
+/-------Date : 15-Apr-2021-------/
+	* Code Updated with Version Read & Skip OTA
+	* Code to be tested in machine
+/-------Date : 15-Apr-2021-------/
+
+/-------Date : 16-Apr-2021-------/
+	* Code Updated with Version Read & return pass or fail from function
+	* Changed the Version address to 0x8125800
+/-------Date : 16-Apr-2021-------/
+
+/-------Date : 15-June-2021-------/
+	* Code Updated with version for not to match
+/-------Date : 15-June-2021-------/
